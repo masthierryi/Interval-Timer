@@ -6,6 +6,7 @@ Please note: The actual main file is a python file, so you will need it and the 
 
 Future implementations:
   - Add a button for customizing timings and timer setups interactively (not in the code);
+  - Add maximize and minimize buttons
   - Turn it into an .exe file (Idk how to do it yet).
 
 If you have any suggestions or comment, please leave them on the discussion page.
